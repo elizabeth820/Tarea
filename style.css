@@ -1,0 +1,57 @@
+*{
+    font-family: Georgia, serif;
+}
+body{
+    background-color: lightpink;
+    padding: 0.5em 2em 0.8em 2em;
+}
+h1{
+    background-color:lavender; border:2px solid palegoldenrod;  color:goldenrod;
+}
+p{
+    color: saddlebrown;
+}
+h2{
+    color: peru;
+}
+ul{
+    color: peru;
+}
+main{
+    text-align: center;
+}
+h3{
+    color: goldenrod;
+}
+.centrado{
+    text-align: center;
+}
+.estrellas{
+    width: 75px;
+}
+.corazon{
+    width: 20px;
+}
+#BR{
+    width: 300px;
+}
+#QoT{
+    width: 500px;
+}
+#KSn{
+    width: 250px;
+}
+#TGl{
+    width: 250px;
+}
+#inline{
+    display: inline;
+}
+#inline li{
+    display: inline;
+}
+#fondo{
+    background-image: url(https://i.pinimg.com/736x/7d/c8/ba/7dc8ba9fb3e2f8a9989dba22f50c8581.jpg);
+    background-position: center;
+    background-size: 100% 100%;
+}
